@@ -1,0 +1,19 @@
+FRAME
+------------------------------------------------------------
+size 1000, 500
+set relative to null
+exit on close
+set visible
+get rid of window bar
+add exit button
+and top panel for score and exit
+~~bottom panel for game start~~
+make Frame introducing Pacman
+Button for Game Start
+Button for Rules (read file)
+Button for Exit
+
+GRID
+------------------------------------------------------------
+(12,30)
+Border layout North for score  and start button

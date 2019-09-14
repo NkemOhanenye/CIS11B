@@ -1,0 +1,19 @@
+PAC-PERSON
+
+Write a Java program to create your vision of a PACMAN based computer game.
+
+It should demonstrate Object Oriented Design/Programming.
+
+This includes using inheritance (is-a) and containment (has-a) relationships.
+
+As an example the ghosts, and PAC-PEOPLE could all derive from a GameCharater parent class.
+
+Walls, and Power Pills, like Ghosts and PAC-PEOPLE, are drawn and have positions, but do not move. An interface might be aw good choice to relate all drawable objects.
+
+You should have a game board (GUI components such as JFrame, JPanel, JButtons, and Key pad actions, etc)
+
+You may want a score keeper.
+
+You will want to animate your moving objects with the Timer, use drawing with paintComponent, etc.
+
+Additional labs exercises will be developed to help in your design.

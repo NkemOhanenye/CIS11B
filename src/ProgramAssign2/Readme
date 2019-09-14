@@ -1,0 +1,13 @@
+Write a Java solution to produce the truth table for any logic circuit and determine circuit equivalence.
+
+You solution MUST contain
+
+-   Two dimensional array
+-   All necessary methods, e.g. tostring(), equal(), compareTo() etc.
+-   Input and Ouput as needed
+-   GUI (Chapter 13)
+-   This will be 20% of the portfolio grade (TBD)
+
+During labs, we will demonstrate the circuit concept with the "FULL ADDER" circuit.
+
+REFER: A Full Adder

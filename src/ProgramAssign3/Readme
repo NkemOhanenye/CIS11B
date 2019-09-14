@@ -1,0 +1,25 @@
+Using classes, inheritance and interfaces
+
+Santa’s Helper
+
+You are head Elf in Santa’s IT department.
+Santa needs to load his sleigh and you have been asked to help with a new computerized inventory system.
+
+Request for toys are received daily and each child is checked in the NaughtyOrNice (NON) database.
+
+If a child was Naughty, Santa fills their stocking with coal, otherwise they will receive the gifts requested.
+
+Each gift will be assigned to a child and all, but coal, will be given a tracking number (for inventory purposes).
+
+Your program should:
+
+-   read a “Letter to Santa”
+-   check the database for NON status
+-   load the sleigh with the appropriate gift(s)
+-   calculate the gross flying weight (weight of all gifts + Santa)
+-   As a design, you should have A gift class, A Toy class, A few Specific Types of Toys,
+                    An Elf class (of which Santa is a member) and a Weightable Interface.
+
+You should write a method that takes Weightable objects and calculates the gross weight.
+
+After each delivery, you should report the current weight of the sleigh.

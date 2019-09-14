@@ -1,0 +1,61 @@
+The long awaited first homework assignment.
+
+Due 9/27/17
+
+
+Programming Assignment #1
+
+ A warm-up assignment using Strings.
+
+ You have been hired to write a Java Program to check the strength of user passwords.
+
+ This program will demonstrate
+
+/*
+ * use of Strings (an implied array),
+ * using a loop,
+ * decisions to test for each rule
+ * boolean flag variables
+ * class definition with a constructor, several methods
+ * The rules are simple.
+ */
+
+ 1.  Passwords must be at least 8 characters long.
+ //They must contain at least one (1) of each of the following:
+ 2.  An uppercase letter
+ 3.  A lowercase letter
+ 4.  A digit (0..9)
+ 5.  A “special character” e.g. one that is neither a letter or a digit.
+
+
+
+You program should consist of a single class, Password, that accepts a password string and checks it against the rules.
+
+It should report whether a password is “good” or “bad” and if “bad”, why.
+
+/*
+Output
+---------------------------------------------------------------
+Password: RedCat
+
+Password not long enough.
+
+Password must have at least one digit.
+
+Password must have at least one special character.
+
+
+
+Password: Yellow22Dog
+
+Password must have at least one special character.
+
+
+
+Password: &P1nk2$2Fr0g
+
+Password is GOOD
+*/
+
+
+Hint:  Use the Character wrapper class.
