@@ -1,8 +1,8 @@
 # CIS11B
-My second Programming class object-oriented programming.
+My second programming class object-oriented programming.
 
-Most of the programs seem to be broken, but they worked on linux.
+Most of the programs seem to be broken, but they worked on Linux.
 
-Final Project is incomplete.
+Final project is incomplete.
 
 Fall 2017
